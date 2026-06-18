@@ -44,7 +44,7 @@ Create a .env file in your project root:
 
 GOOGLE_API_KEY=your_google_api_key_here
 ---
-▶️ Run Locally
+▶️ Run Locally on system
 streamlit run chat.py
 
 
